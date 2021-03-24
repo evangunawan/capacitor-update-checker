@@ -1,7 +1,7 @@
 {
   "name": "update-checker",
   "version": "0.2.3",
-  "description": "Update checker plugin for capacitor.",
+  "description": "Update checker plugin for periksa.id mobile apps.",
   "main": "dist/plugin.js",
   "module": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
