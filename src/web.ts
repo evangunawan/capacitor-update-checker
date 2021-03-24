@@ -14,11 +14,8 @@ export class UpdateCheckerWeb extends WebPlugin implements UpdateCheckerPlugin {
     return options;
   }
 
-  async getAppVersion(): Promise<{versionName: string, versionCode: number}> {
-    return {
-      versionCode: 0,
-      versionName: 'test',
-    }
+  async getAppVersion(): Promise<{versionName?: string, versionCode?: number}> {
+    return {};
   }
   
   async runUpdateChecker() {

@@ -1,6 +1,6 @@
 {
   "name": "update-checker",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Update checker plugin for capacitor.",
   "main": "dist/plugin.js",
   "module": "dist/esm/index.js",
